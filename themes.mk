@@ -152,10 +152,6 @@ PRODUCT_PACKAGES += \
 #    SwitchMD2 \
 #    SwitchOOS
 
-# Stub
-PRODUCT_PACKAGES += \
-    AEXThemesStub
-
 # Plugins
 #-include packages/apps/PotatoPlugins/plugins.mk
 
